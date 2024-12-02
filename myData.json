@@ -1,0 +1,95 @@
+{
+  "name": "BurhanuddinMarcha",
+  "version": "0.1.0",
+  "description": "A Software Developer with over 2+ years of experience in building scalable web applications using React.js, Next.js, and Node.js.",
+  "components": {
+    "skills": {
+      "Frontend": ["ReactJS", "NextJS", "JavaScript", "MUI", "TailwindCSS"],
+      "Backend": ["NodeJS", "Ejs", "Python", "ASP.NET"],
+      "Database": ["MongoDB", "MySQL", "PostgreSQL"],
+      "Cloud Services": [
+        "Kubernetes",
+        "AWS",
+        "Docker",
+        "Github",
+        "CLI",
+        "Azure"
+      ],
+      "Languages": ["C", "C++", "Python", "JavaScript"]
+    },
+    "experience": [
+      {
+        "title": "Software Developer",
+        "company": "Radon Software Pvt. Ltd.",
+        "period": "04/2024 – 11/2024",
+        "achievements": [
+          "Developed a digital signature feature, streamlining document workflow by 40%",
+          "Migrated repository from AWS CodeCommit to GitHub, implemented Kubernetes",
+          "Re-engineered table component, reducing data entry time by 50%"
+        ]
+      },
+      {
+        "title": "Associate Software Engineer",
+        "company": "BriskGrid Solution Pvt. Ltd.",
+        "period": "11/2022 - 04/2024",
+        "achievements": [
+          "Created dynamic website project for real estate, reducing development time by 60%",
+          "Migrated project from React.js to Next.js, improving performance by 35%",
+          "Enhanced UI/UX implementation from Figma designs, increasing engagement by 25%"
+        ]
+      },
+      {
+        "title": "FullStack Web Developer Intern",
+        "company": "DevTown",
+        "period": "10/2021 - 01/2022",
+        "achievements": [
+          "Received training in web development technologies",
+          "Developed multiple websites using React.js, Redux, and MongoDB"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Apple Website Clone",
+        "description": "A clone of the Apple website built with Next.js and TailwindCSS, featuring responsive design and smooth animations.",
+        "tech": ["Next.js", "React", "TailwindCSS", "GSAP", "3D", "Three.JS"],
+        "github": "https://github.com/Burhanuddin-49/apple-website",
+        "demo": "https://apple-website-one-chi.vercel.app/"
+      },
+      {
+        "title": "URL Shortener",
+        "description": "A full-stack URL shortening service built with the MERN stack, featuring JWT authentication and analytics.",
+        "tech": ["MongoDB", "Express", "React", "Node.js"],
+        "github": "https://github.com/Burhanuddin-49/urlShortener",
+        "demo": "https://github.com/Burhanuddin-49/urlShortener"
+      },
+      {
+        "title": "Spotify Clone",
+        "description": "A Spotify-inspired music streaming application with features like playlist creation and music playback.",
+        "tech": ["React", "Node.js", "Spotify API"],
+        "github": "https://github.com/Burhanuddin-49/spotify-task",
+        "demo": "https://spotify-task.vercel.app/"
+      },
+      {
+        "title": "WebRTC Chat",
+        "description": "A real-time video chat application built using WebRTC technology and Socket.io for signaling.",
+        "tech": ["WebRTC", "Socket.io", "Node.js"],
+        "github": "https://github.com/Burhanuddin-49/webRTC",
+        "demo": "https://github.com/Burhanuddin-49/webRTC"
+      }
+    ],
+    "about": {
+      "description": "Software Developer with over 2+ years of experience in building scalable web applications. Skilled in modern web technologies and passionate about creating efficient solutions.",
+      "achievements": [
+        "Smart India Hackathon participant",
+        "6-star badge holder on HackerRank for problem-solving skills"
+      ],
+      "education": "Bachelor of Computer Engineering from Dr. D. Y. Patil Institute of Technology."
+    },
+    "contact": {
+      "email": "Burhanuddinmarcha@gmail.com",
+      "phone": "+965-41053844",
+      "location": "Khaitan, Kuwait"
+    }
+  }
+}
